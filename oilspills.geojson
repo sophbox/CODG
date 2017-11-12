@@ -1,0 +1,1280 @@
+﻿{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.70416667,29.41472222 ]
+    },
+    "properties": {
+    "id":9427,
+    "open_date":"2017-01-31",
+    "name":"Hilcorp Platform Leak",
+    "location":"Unnamed Road, Port Sulphur, LA 70083, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.63158417,47.23458288 ]
+    },
+    "properties": {
+    "id":9501,
+    "open_date":"2017-05-31",
+    "name":"Mystery Sheen, Keweenaw Waterway, MI",
+    "location":"McLain State Park Rd, Hancock, MI 49930, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.07727778,26.11522222 ]
+    },
+    "properties": {
+    "id":9613,
+    "open_date":"2017-10-31",
+    "name":"F/V Ben & Casey Sunken Vessel",
+    "location":"South Padre Island",
+    "threat":"Oil",
+    "max_ptl_release_gallons":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.49571389,29.66561667 ]
+    },
+    "properties": {
+    "id":9575,
+    "open_date":"2017-09-19",
+    "name":"Lake Fortuna Flare Stack leak",
+    "location":"Breton Sound, LA, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.43016667,28.93072222 ]
+    },
+    "properties": {
+    "id":9439,
+    "open_date":"2017-02-15",
+    "name":"IG Petroleum, West Delta 84",
+    "location":"Louisiana",
+    "threat":"Oil",
+    "max_ptl_release_gallons":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.97847,28.10138 ]
+    },
+    "properties": {
+    "id":9442,
+    "open_date":"2017-02-18",
+    "name":"Energy 21 Pipeline, Grand Isle Block 22",
+    "location":"Offshore LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2925,29.31805556 ]
+    },
+    "properties": {
+    "id":9581,
+    "open_date":"2017-09-23",
+    "name":"Lobo Grand Bay Tank Battery#1",
+    "location":"175 Sports Marina Rd, Venice, LA 70091, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26,38.06 ]
+    },
+    "properties": {
+    "id":9564,
+    "open_date":"2017-09-04",
+    "name":"Phillips 66 Refinery Spill",
+    "location":"Rodeo, CA 95033, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.90861111,29.8925 ]
+    },
+    "properties": {
+    "id":9417,
+    "open_date":"2017-01-06",
+    "name":"M/V Desert Hope Fuel Discharge",
+    "location":"13201 Patterson Rd, New Orleans, LA 70131, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.189807,25.455564 ]
+    },
+    "properties": {
+    "id":9479,
+    "open_date":"2017-04-26",
+    "name":"Waste Oil Drum on Elliott Key, FL",
+    "location":"Spite Hwy, Islandia, FL, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.20638889,28.58222222 ]
+    },
+    "properties": {
+    "id":9434,
+    "open_date":"2017-02-12",
+    "name":"Fieldwood Energy Pipeline",
+    "location":"Ship Shoal",
+    "threat":"Oil",
+    "max_ptl_release_gallons":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.04694444,29.57361111 ]
+    },
+    "properties": {
+    "id":9465,
+    "open_date":"2017-04-05",
+    "name":"Rigolets oil spill,Jefferson Parish - Hilcorp",
+    "location":"the Rigolets, Port Sulphur, LA 70083, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.27166667,29.00472222 ]
+    },
+    "properties": {
+    "id":9435,
+    "open_date":"2017-02-12",
+    "name":"Whitney Oil&Gas Well 1008B#14",
+    "location":"South Pass 24, Venice, LA 70091, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.58611,58.82222 ]
+    },
+    "properties": {
+    "id":9526,
+    "open_date":"2017-07-03",
+    "name":"FV Ketok",
+    "location":"Dillingham, AK, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.98072433,44.86170953 ]
+    },
+    "properties": {
+    "id":9421,
+    "open_date":"2017-01-10",
+    "name":"F/V Karrissa Jo",
+    "location":"24 Water St, Lubec, ME 04652, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.568833,58.803 ]
+    },
+    "properties": {
+    "id":9525,
+    "open_date":"2017-07-03",
+    "name":"FV Bunchie",
+    "location":"Dillingham, AK, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.04251146,42.35343808 ]
+    },
+    "properties": {
+    "id":9443,
+    "open_date":"2017-02-14",
+    "name":"Ferry Peter Stuyvesant",
+    "location":"70 Northern Ave, Boston, MA 02210, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.06583333,29.33916667 ]
+    },
+    "properties": {
+    "id":9432,
+    "open_date":"2017-02-10",
+    "name":"MV TUTAHACO, HALIFAX RIVER",
+    "location":"1850 Ocean Shore Blvd, Ormond Beach, FL 32176, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.24305556,29.27527778 ]
+    },
+    "properties": {
+    "id":9579,
+    "open_date":"2017-09-22",
+    "name":"Romere Pass#59",
+    "location":"Venice, LA 70091, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":210
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.23055556,29.28861111 ]
+    },
+    "properties": {
+    "id":9481,
+    "open_date":"2017-05-01",
+    "name":"TPIC, Romere Pass LA",
+    "location":"Venice, LA 70091, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":210
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.93031389,29.45719167 ]
+    },
+    "properties": {
+    "id":9609,
+    "open_date":"2017-10-25",
+    "name":"F/V Saint Paul Grounding",
+    "location":"Moses Lake, Texas City, TX 77590, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.395,58.7355 ]
+    },
+    "properties": {
+    "id":9527,
+    "open_date":"2017-07-03",
+    "name":"FV N11",
+    "location":"Dillingham, AK, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.35,55.6333 ]
+    },
+    "properties": {
+    "id":9429,
+    "open_date":"2017-02-02",
+    "name":"FV Defender",
+    "location":"Bering Sea, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.62333333,29.46 ]
+    },
+    "properties": {
+    "id":9585,
+    "open_date":"2017-10-03",
+    "name":"Botco XTO Energy, Cox Bay",
+    "location":"Port Sulpher, LA 70083, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.7526,60.15685 ]
+    },
+    "properties": {
+    "id":9539,
+    "open_date":"2017-08-04",
+    "name":"FV All In",
+    "location":"Knight Island, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.45222222,29.57472222 ]
+    },
+    "properties": {
+    "id":9510,
+    "open_date":"2017-06-09",
+    "name":"Main Pass 23 Well Head leak",
+    "location":"Breton Sound LA, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":420
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.60666667,29.46 ]
+    },
+    "properties": {
+    "id":9485,
+    "open_date":"2017-05-04",
+    "name":"Cox Bay Oil Containment Release",
+    "location":"Port Sulphur, LA 70083, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":420
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.22266667,29.14333333 ]
+    },
+    "properties": {
+    "id":9475,
+    "open_date":"2017-04-24",
+    "name":"Sunken Pleasure Craft, Pass a Loutre",
+    "location":"Venice, LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":450
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.41,29.33933333 ]
+    },
+    "properties": {
+    "id":9483,
+    "open_date":"2017-05-02",
+    "name":"F/V David Boy, Atchafalaya Basin LA",
+    "location":"Point Au Fer Island,  LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.54140556,30.04706667 ]
+    },
+    "properties": {
+    "id":9415,
+    "open_date":"2017-01-03",
+    "name":"Custom Fuel Service Diesel Spill",
+    "location":"1169-1181 LA-44, Reserve, LA 70084, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.98007778,30.00746944 ]
+    },
+    "properties": {
+    "id":9503,
+    "open_date":"2017-06-01",
+    "name":"Sunoco Logistics",
+    "location":"2300 N Twin City Hwy, Nederland, TX 77627, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.51439,54.37471 ]
+    },
+    "properties": {
+    "id":9569,
+    "open_date":"2017-09-07",
+    "name":"FV Provider",
+    "location":"Sanak Islands, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":550
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.60367,57.288 ]
+    },
+    "properties": {
+    "id":9544,
+    "open_date":"2017-08-09",
+    "name":"FV Confidence",
+    "location":"Sitka, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.91581472,41.28291941 ]
+    },
+    "properties": {
+    "id":9425,
+    "open_date":"2017-01-12",
+    "name":"New Haven Oil Terminal Pipeline",
+    "location":"Unnamed Road, New Haven, CT 06512, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.224167,32.631889 ]
+    },
+    "properties": {
+    "id":9587,
+    "open_date":"2017-10-04",
+    "name":"USS Dewey",
+    "location":"San Diego, CA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.411,58.05616667 ]
+    },
+    "properties": {
+    "id":9535,
+    "open_date":"2017-07-24",
+    "name":"FV Grayling, Kodiak, AK",
+    "location":"Kupreanof Strait",
+    "threat":"Oil",
+    "max_ptl_release_gallons":700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.392167,58.025667 ]
+    },
+    "properties": {
+    "id":9523,
+    "open_date":"2017-06-29",
+    "name":"FV Miss Destinee",
+    "location":"Kodiak, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.33933333,29.6455 ]
+    },
+    "properties": {
+    "id":9484,
+    "open_date":"2017-05-04",
+    "name":"F/V Heidi II",
+    "location":"Breton Sound LA, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.37388889,29.14472222 ]
+    },
+    "properties": {
+    "id":9460,
+    "open_date":"2017-03-20",
+    "name":"Hilcorp Abandoned well head JGTB 162",
+    "location":"West Bay Area",
+    "threat":"Oil",
+    "max_ptl_release_gallons":840
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.155,56.51666667 ]
+    },
+    "properties": {
+    "id":9511,
+    "open_date":"2017-06-10",
+    "name":"FV Taku Sinking",
+    "location":"Sutwik Island, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":880
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.58503,60.95016 ]
+    },
+    "properties": {
+    "id":9547,
+    "open_date":"2017-08-10",
+    "name":"FV Stoic",
+    "location":"Unakwik Inlet,  Northern Prince William Sound, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":1000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.56,28.55833333 ]
+    },
+    "properties": {
+    "id":9419,
+    "open_date":"2017-01-10",
+    "name":"Galveston Lightering Area Fuel Discharge",
+    "location":"Offshore of Galveston, TX",
+    "threat":"Oil",
+    "max_ptl_release_gallons":1050
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.380201,57.129633 ]
+    },
+    "properties": {
+    "id":9474,
+    "open_date":"2017-04-21",
+    "name":"Tug Powhatan",
+    "location":"Sitka, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":1075
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.90955556,29.28666667 ]
+    },
+    "properties": {
+    "id":9469,
+    "open_date":"2017-04-10",
+    "name":"F/V Bendora Aground",
+    "location":"near Grand Terre, LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":1200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.77388889,29.39111111 ]
+    },
+    "properties": {
+    "id":9597,
+    "open_date":"2017-10-10",
+    "name":"Hilcorp Lake Washington Well LLE#22",
+    "location":"Lake Washington, Port Sulphur, LA 70083, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":1260
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -167.06938,53.51162 ]
+    },
+    "properties": {
+    "id":9451,
+    "open_date":"2017-03-06",
+    "name":"FV St Dominick",
+    "location":"Pumicestone Bay, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":1500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.39891944,28.26728611 ]
+    },
+    "properties": {
+    "id":9532,
+    "open_date":"2017-07-16",
+    "name":"Mississippi Canyon 736 Platform Discharge",
+    "location":"Offshore Louisiana",
+    "threat":"Oil",
+    "max_ptl_release_gallons":2000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.35805556,29.25111111 ]
+    },
+    "properties": {
+    "id":9553,
+    "open_date":"2017-08-23",
+    "name":"M/V Gracie Claire",
+    "location":"Cypress Cove Area, Venice, LA 70091, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":2300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.8033333,55.41166667 ]
+    },
+    "properties": {
+    "id":9440,
+    "open_date":"2017-02-16",
+    "name":"Tug Samson Mariner",
+    "location":"Gravina Island, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":3000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.368652,30.059375 ]
+    },
+    "properties": {
+    "id":9565,
+    "open_date":"2017-09-05",
+    "name":"T/V Savage Intensity",
+    "location":"GIWW MM 245, Sulphur, LA 70665, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":3500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.09585,36.96111 ]
+    },
+    "properties": {
+    "id":9455,
+    "open_date":"2017-03-09",
+    "name":"UTV Tom Rogers",
+    "location":"Mississippi River near Wickliffe, KY 42087, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":3500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3511667,37.8095 ]
+    },
+    "properties": {
+    "id":9468,
+    "open_date":"2017-04-07",
+    "name":"Vengeance crane barge sinking",
+    "location":"San Francisco Bay, CA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":4000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.416908,31.566695 ]
+    },
+    "properties": {
+    "id":9445,
+    "open_date":"2017-02-27",
+    "name":"Sonny J",
+    "location":"Vidalia, LA 71373, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":4000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.618159,70.126559 ]
+    },
+    "properties": {
+    "id":9420,
+    "open_date":"2017-01-10",
+    "name":"Kaktovik Storage Tank",
+    "location":"Kaktovik, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":4000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.35,29.76 ]
+    },
+    "properties": {
+    "id":9454,
+    "open_date":"2017-03-08",
+    "name":"OSV Miss Lynda Aground, Calcasieu West Jetty",
+    "location":"Cameron, LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":4390
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.63666667,28.80333333 ]
+    },
+    "properties": {
+    "id":9499,
+    "open_date":"2017-05-29",
+    "name":"Sunken Tug, Eugene Island Block, Offshore LA",
+    "location":"Gulf of Mexico",
+    "threat":"Oil",
+    "max_ptl_release_gallons":4400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.82555556,29.65222222 ]
+    },
+    "properties": {
+    "id":9602,
+    "open_date":"2017-10-13",
+    "name":"Southern Belle - Sunken Fishing Vessel",
+    "location":"Sabine Pass, TX",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.19,21.37 ]
+    },
+    "properties": {
+    "id":9557,
+    "open_date":"2017-08-25",
+    "name":"Sunken Vessel POINT HARRIS",
+    "location":"30 nm east of Kaneohe Bay, Oahu, HI 96770, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.4525,28.87833333 ]
+    },
+    "properties": {
+    "id":9518,
+    "open_date":"2017-06-22",
+    "name":"F/V Lady Demaries Sinking, Offshore of Galveston",
+    "location":"Gulf of Mexico",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.52592,57.69893 ]
+    },
+    "properties": {
+    "id":9448,
+    "open_date":"2017-02-28",
+    "name":"FV Elizabeth Taylor",
+    "location":"Kodiak, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.71153,54.1171 ]
+    },
+    "properties": {
+    "id":9436,
+    "open_date":"2017-02-13",
+    "name":"FV Predator",
+    "location":"Akutan, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.349403,29.807348 ]
+    },
+    "properties": {
+    "id":9493,
+    "open_date":"2017-05-22",
+    "name":"Tug Mr. Landon Aground",
+    "location":"Calcasieu Ship Channel, Cameron, LA 70631, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":6000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8248333,21.2615 ]
+    },
+    "properties": {
+    "id":9599,
+    "open_date":"2017-10-11",
+    "name":"Vessel Aground, Honolulu, HI",
+    "location":"1001 Kalakaua Ave, Honolulu, HI 96815, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":8000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.325,29.55777778 ]
+    },
+    "properties": {
+    "id":9558,
+    "open_date":"2017-08-27",
+    "name":"Breton Sound 32 LOBOPlatform Fire",
+    "location":"Breton Sound, LA, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":9870
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.13,36.8 ]
+    },
+    "properties": {
+    "id":9473,
+    "open_date":"2017-04-17",
+    "name":"M/V Todd Brown",
+    "location":"MM 940 Mississippi River (near Columbus, KY)",
+    "threat":"Oil",
+    "max_ptl_release_gallons":17980
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.31513,60.9769 ]
+    },
+    "properties": {
+    "id":9463,
+    "open_date":"2017-04-01",
+    "name":"Anna Platform Pipeline Leak",
+    "location":"Cook Inlet, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":19320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.08833333,28.35694444 ]
+    },
+    "properties": {
+    "id":9416,
+    "open_date":"2017-01-05",
+    "name":"Renaissance Ship Shoal 266A Platform Fire",
+    "location":"Offshore of Terrabonne Parish, Lousiana",
+    "threat":"Oil",
+    "max_ptl_release_gallons":19950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.27266667,30.06427778 ]
+    },
+    "properties": {
+    "id":9603,
+    "open_date":"2017-10-15",
+    "name":"Oil Platform Fire",
+    "location":"Lake Pontchartrain, LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":21000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.59492,53.84103 ]
+    },
+    "properties": {
+    "id":9595,
+    "open_date":"2017-10-07",
+    "name":"Akutan Abandoned Vessel",
+    "location":"Unalaska, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":23440
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.3,45.4 ]
+    },
+    "properties": {
+    "id":9497,
+    "open_date":"2017-05-25",
+    "name":"Delta Flight 159 Fuel Dump",
+    "location":"Leelanau County, MI, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":26432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99718,40.59149 ]
+    },
+    "properties": {
+    "id":9461,
+    "open_date":"2017-03-31",
+    "name":"Lower New York Bay, Brooklyn, NY",
+    "location":"399 Bay 38 St, Brooklyn, NY 11214, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":27000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.59324,53.83983 ]
+    },
+    "properties": {
+    "id":9548,
+    "open_date":"2017-08-13",
+    "name":"FV Akutan",
+    "location":"Unalaska, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":30000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.70416,56.69 ]
+    },
+    "properties": {
+    "id":9433,
+    "open_date":"2017-02-11",
+    "name":"F/V Destination",
+    "location":"St. George Island, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":35400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.65928,37.1282 ]
+    },
+    "properties": {
+    "id":9466,
+    "open_date":"2017-04-05",
+    "name":"UTV Michael Nadicksbernd",
+    "location":"Strawberry Rd, Brookport, IL 62910, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":47000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -133.8906,56.42063 ]
+    },
+    "properties": {
+    "id":9449,
+    "open_date":"2017-03-02",
+    "name":"Tug Ocean Eagle",
+    "location":"Sumner Strait, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":58000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.24115,29.24251667 ]
+    },
+    "properties": {
+    "id":9606,
+    "open_date":"2017-10-22",
+    "name":"Crane Barge TOPS DB1 T.O.W. Allision",
+    "location":"West Cameron Block 198A, LA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":71000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.28,37.09 ]
+    },
+    "properties": {
+    "id":9529,
+    "open_date":"2017-07-09",
+    "name":"UTV Eric Haney",
+    "location":"MM 13.5 Upper Mississippi River",
+    "threat":"Oil",
+    "max_ptl_release_gallons":80000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.06594444,36.83294444 ]
+    },
+    "properties": {
+    "id":9490,
+    "open_date":"2017-05-11",
+    "name":"Navy OCEANA Jet Fuel Spill",
+    "location":"2789 Potters Rd, Virginia Beach, VA 23452, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":100000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.30166667,46.48888889 ]
+    },
+    "properties": {
+    "id":9546,
+    "open_date":"2017-08-10",
+    "name":"M/V Calumet Aground St. Marys River, MI",
+    "location":"Ferry Dock, Sault Ste. Marie, MI 49783, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":105000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.911547,38.916948 ]
+    },
+    "properties": {
+    "id":9450,
+    "open_date":"2017-03-02",
+    "name":"Racine Lock & Dam condensate barges",
+    "location":"Racine Locks and Dam, Letart, WV 25253, USA",
+    "threat":"Oil",
+    "max_ptl_release_gallons":126000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.929302,59.750133 ]
+    },
+    "properties": {
+    "id":9491,
+    "open_date":"2017-05-15",
+    "name":"Crowley Barge DBL 165-1 Grounding",
+    "location":"Quinhagak, AK",
+    "threat":"Oil",
+    "max_ptl_release_gallons":288000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.26722222,28.75444444 ]
+    },
+    "properties": {
+    "id":9601,
+    "open_date":"2017-10-13",
+    "name":"Mississippi Canyon 209 Pipeline Discharge",
+    "location":"Offshore Louisiana",
+    "threat":"Oil",
+    "max_ptl_release_gallons":392700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.60094,54.31372 ]
+    },
+    "properties": {
+    "id":9452,
+    "open_date":"2017-03-07",
+    "name":"Ecofaith G.O.",
+    "location":"Unimak Pass, Alaska",
+    "threat":"Oil",
+    "max_ptl_release_gallons":400000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.85026932,42.21417346 ]
+    },
+    "properties": {
+    "id":9464,
+    "open_date":"2017-04-04",
+    "name":"ATB Meredith Reinauer, Catskill, NY",
+    "location":"Hudson River near Catskill, NY",
+    "threat":"Oil",
+    "max_ptl_release_gallons":2520000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.09,27.84 ]
+    },
+    "properties": {
+    "id":9604,
+    "open_date":"2017-10-20",
+    "name":"Barge B No. 255 fire",
+    "location":"Corpus Christi, TX",
+    "threat":"Oil",
+    "max_ptl_release_gallons":5586000
+    }
+  }
+]
+}
