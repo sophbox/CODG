@@ -12,7 +12,7 @@
     "open_date":"2016-04-15",
     "name":"F/V No. 1 JI HYUN",
     "location":"Aunuu Island, American Samoa",
-    "max_ptl_release_gallons":50000
+    "release":50000
     }
   },
   {
@@ -26,7 +26,7 @@
     "open_date":"2016-10-03",
     "name":"Sunken Vessel, Tinian Harbor",
     "location":"Northern Mariana Islands",
-    "max_ptl_release_gallons":60
+    "release":60
     }
   },
   {
@@ -40,7 +40,7 @@
     "open_date":"2016-03-08",
     "name":"Drug Interdiction",
     "location":"40 miles south of Dominican Republic",
-    "max_ptl_release_gallons":2500
+    "release":2500
     }
   },
   {
@@ -54,7 +54,7 @@
     "open_date":"2016-08-17",
     "name":"Ferry Caribbean Fantasy",
     "location":"San Juan, Puerto Rico",
-    "max_ptl_release_gallons":263718
+    "release":263718
     }
   },
   {
@@ -68,7 +68,7 @@
     "open_date":"2016-05-24",
     "name":"USS HOPPER",
     "location":"Barbers Point, Oahu, HI",
-    "max_ptl_release_gallons":2000
+    "release":2000
     }
   },
   {
@@ -82,7 +82,7 @@
     "open_date":"2016-01-15",
     "name":"Downed Military Aircraft",
     "location":"North Shore, Oahu",
-    "max_ptl_release_gallons":4000
+    "release":4000
     }
   },
   {
@@ -96,7 +96,7 @@
     "open_date":"2016-01-25",
     "name":"M/V Serena III",
     "location":"Fort Lauderdale, FL",
-    "max_ptl_release_gallons":7000
+    "release":7000
     }
   },
   {
@@ -110,7 +110,7 @@
     "open_date":"2016-02-20",
     "name":"M/V West Cameron",
     "location":"238 miles south of Pensacola, FL GOM",
-    "max_ptl_release_gallons":6000
+    "release":6000
     }
   },
   {
@@ -124,7 +124,7 @@
     "open_date":"2016-03-07",
     "name":"F/V Ruby D",
     "location":"Ft Meyers. FL (offshore)",
-    "max_ptl_release_gallons":200
+    "release":200
     }
   },
   {
@@ -138,7 +138,7 @@
     "open_date":"2016-05-12",
     "name":"Green Canyon 248",
     "location":"Green Canyon Block 248, Gulf of Mexico",
-    "max_ptl_release_gallons":88200
+    "release":88200
     }
   },
   {
@@ -152,7 +152,7 @@
     "open_date":"2016-09-03",
     "name":"Capsized Landing Craft, Kure Atoll, HI",
     "location":"Kure Atoll, Hawaii",
-    "max_ptl_release_gallons":50
+    "release":50
     }
   },
   {
@@ -166,7 +166,7 @@
     "open_date":"2016-02-11",
     "name":"Field Energy Platform Release",
     "location":"~13 mile offshore of Grand Isle, LA",
-    "max_ptl_release_gallons":300
+    "release":300
     }
   },
   {
@@ -180,7 +180,7 @@
     "open_date":"2016-10-02",
     "name":"Mystery sheen",
     "location":"Grand Isle, LA",
-    "max_ptl_release_gallons":153
+    "release":153
     }
   },
   {
@@ -194,7 +194,7 @@
     "open_date":"2016-07-27",
     "name":"TPIC Wellhead Leak, RMM 5, Southwest Pass",
     "location":" Venice, LA ",
-    "max_ptl_release_gallons":2100
+    "release":2100
     }
   },
   {
@@ -208,7 +208,7 @@
     "open_date":"2016-02-22",
     "name":"Whitney Oil & Gas Wellhead Leak",
     "location":"Garden Island Bay, Plaquemines, LA",
-    "max_ptl_release_gallons":84
+    "release":84
     }
   },
   {
@@ -222,7 +222,7 @@
     "open_date":"2016-10-13",
     "name":"Caillou Island",
     "location":"9, LA, USA",
-    "max_ptl_release_gallons":1050
+    "release":1050
     }
   },
   {
@@ -236,7 +236,7 @@
     "open_date":"2016-10-03",
     "name":"West Bay Abandoned Flowline",
     "location":"9, LA, USA",
-    "max_ptl_release_gallons":42
+    "release":42
     }
   },
   {
@@ -250,7 +250,7 @@
     "open_date":"2016-03-25",
     "name":"TPIC Minor Pipeline Leak",
     "location":"Delta NWR, Plaquemines, LA",
-    "max_ptl_release_gallons":84
+    "release":84
     }
   },
   {
@@ -264,7 +264,7 @@
     "open_date":"2016-11-17",
     "name":"Energy 21 (formerly Main pass 61)",
     "location":"United States",
-    "max_ptl_release_gallons":151
+    "release":151
     }
   },
   {
@@ -278,7 +278,7 @@
     "open_date":"2016-11-29",
     "name":"Energy 21 Platform F",
     "location":"Approx 8 miles offshore Atchafalaya Bay, Gulf of Mexico, LA",
-    "max_ptl_release_gallons":10
+    "release":10
     }
   },
   {
@@ -292,7 +292,7 @@
     "open_date":"2016-09-05",
     "name":"Bay Long Pipeline",
     "location":"Barataria Bay, Louisiana",
-    "max_ptl_release_gallons":5250
+    "release":5250
     }
   },
   {
@@ -306,7 +306,7 @@
     "open_date":"2016-04-27",
     "name":"M/V Shelf Venture",
     "location":"Baptiste Collette, LA",
-    "max_ptl_release_gallons":2000
+    "release":2000
     }
   },
   {
@@ -320,7 +320,7 @@
     "open_date":"2016-07-28",
     "name":"Chevron Platform Discharge",
     "location":"South Marsh Island Block 223, Offshore of Louisiana",
-    "max_ptl_release_gallons":11
+    "release":11
     }
   },
   {
@@ -334,7 +334,7 @@
     "open_date":"2016-07-25",
     "name":"Hilcorp Energy Pipeline Leak",
     "location":"Lake Grande Ecaille, LA",
-    "max_ptl_release_gallons":4200
+    "release":4200
     }
   },
   {
@@ -348,7 +348,7 @@
     "open_date":"2016-08-02",
     "name":"TPIC Wellhead Leak",
     "location":"Main Pass 35 Block, Offshore LA",
-    "max_ptl_release_gallons":4200
+    "release":4200
     }
   },
   {
@@ -362,7 +362,7 @@
     "open_date":"2016-09-26",
     "name":"Manilla Pipeline Leak",
     "location":"Manilla LA, USA",
-    "max_ptl_release_gallons":42
+    "release":42
     }
   },
   {
@@ -376,7 +376,7 @@
     "open_date":"2016-03-22",
     "name":"Long Bay Oil Slick",
     "location":"East Cox Bay, LA",
-    "max_ptl_release_gallons":105
+    "release":105
     }
   },
   {
@@ -390,7 +390,7 @@
     "open_date":"2016-06-14",
     "name":"Mystery sheen",
     "location":"Turtle Bay, LA",
-    "max_ptl_release_gallons":42
+    "release":42
     }
   },
   {
@@ -404,7 +404,7 @@
     "open_date":"2016-06-27",
     "name":"Energy Reserve 2 Discharge",
     "location":"Breton Sound Block 32, LA",
-    "max_ptl_release_gallons":10
+    "release":10
     }
   },
   {
@@ -418,7 +418,7 @@
     "open_date":"2016-10-21",
     "name":"Hilcorp Lafitte Field CF#1",
     "location":"Lafitte, LA, USA",
-    "max_ptl_release_gallons":126
+    "release":126
     }
   },
   {
@@ -432,7 +432,7 @@
     "open_date":"2016-07-11",
     "name":"F/V Captain Kevin",
     "location":"Sabine Pass, TX",
-    "max_ptl_release_gallons":5000
+    "release":5000
     }
   },
   {
@@ -446,7 +446,7 @@
     "open_date":"2016-03-22",
     "name":"Beached Diesel Bladder",
     "location":"Jefferson, TX",
-    "max_ptl_release_gallons":500
+    "release":500
     }
   },
   {
@@ -460,7 +460,7 @@
     "open_date":"2016-09-09",
     "name":"Pleasure Craft Fire Rutherford Beach",
     "location":"Rutherford Beach, LA",
-    "max_ptl_release_gallons":500
+    "release":500
     }
   },
   {
@@ -474,7 +474,7 @@
     "open_date":"2016-08-10",
     "name":"Kingwood Exploration Pipeline Leak",
     "location":"JD Murphree WMA, Port Arthur, TX",
-    "max_ptl_release_gallons":2100
+    "release":2100
     }
   },
   {
@@ -488,7 +488,7 @@
     "open_date":"2016-04-22",
     "name":"UTV Ricky Lebeouf",
     "location":"Channelview, TX",
-    "max_ptl_release_gallons":10000
+    "release":10000
     }
   },
   {
@@ -502,7 +502,7 @@
     "open_date":"2016-10-15",
     "name":"Lake Lery Hydraulic Fluid Spill",
     "location":"1, LA, USA",
-    "max_ptl_release_gallons":60
+    "release":60
     }
   },
   {
@@ -516,7 +516,7 @@
     "open_date":"2016-03-29",
     "name":"Bayou Teche Tank Overflow",
     "location":"Bayou Tesh, Jeanerette, LA 70544",
-    "max_ptl_release_gallons":11550
+    "release":11550
     }
   },
   {
@@ -530,7 +530,7 @@
     "open_date":"2016-01-15",
     "name":"Stone Oil Barge Allision",
     "location":"New Orleans, LA",
-    "max_ptl_release_gallons":20
+    "release":20
     }
   },
   {
@@ -544,7 +544,7 @@
     "open_date":"2016-06-14",
     "name":"F/V Michelle Dawn",
     "location":"1.5 miles SSW Mexico Beach, FL",
-    "max_ptl_release_gallons":200
+    "release":200
     }
   },
   {
@@ -558,7 +558,7 @@
     "open_date":"2016-04-20",
     "name":"Sunken Barge EMS 319",
     "location":"MM 92.5, Mississippi River, New Orleans",
-    "max_ptl_release_gallons":1050000
+    "release":1050000
     }
   },
   {
@@ -572,7 +572,7 @@
     "open_date":"2016-10-28",
     "name":"Main Pass 61",
     "location":"St Bernard Parish, LA, USA",
-    "max_ptl_release_gallons":49
+    "release":49
     }
   },
   {
@@ -586,7 +586,7 @@
     "open_date":"2016-12-03",
     "name":"Associated Terminals: Diesel Discharge",
     "location":"Mississippi River ~MM89, New Orleans, LA 70131, USA",
-    "max_ptl_release_gallons":3000
+    "release":3000
     }
   },
   {
@@ -600,7 +600,7 @@
     "open_date":"2016-05-28",
     "name":"Eagle Ford Discharge",
     "location":"Beaumont, TX",
-    "max_ptl_release_gallons":600
+    "release":600
     }
   },
   {
@@ -614,7 +614,7 @@
     "open_date":"2016-03-15",
     "name":"Berry Lake Platform Fire",
     "location":"Bayou Sorrel, LA",
-    "max_ptl_release_gallons":33600
+    "release":33600
     }
   },
   {
@@ -628,7 +628,7 @@
     "open_date":"2016-01-21",
     "name":"UTV AMY FRANCES",
     "location":"MS River MM 363 Natchez, MS",
-    "max_ptl_release_gallons":1006026
+    "release":1006026
     }
   },
   {
@@ -642,7 +642,7 @@
     "open_date":"2016-02-18",
     "name":"Genesis 8-inch pipeline ",
     "location":"Magee, MS",
-    "max_ptl_release_gallons":6300
+    "release":6300
     }
   },
   {
@@ -656,7 +656,7 @@
     "open_date":"2016-11-01",
     "name":"Gasoline Pipeline- Helena, AL",
     "location":"Helena, AL, USA",
-    "max_ptl_release_gallons":300000
+    "release":300000
     }
   },
   {
@@ -670,7 +670,7 @@
     "open_date":"2016-11-18",
     "name":"Tank Truck Jet Fuel Spill",
     "location":"Point Mugu, CA",
-    "max_ptl_release_gallons":1500
+    "release":1500
     }
   },
   {
@@ -684,7 +684,7 @@
     "open_date":"2016-05-06",
     "name":"Military Harrier Jet Crash",
     "location":"Wrightsville Beach, NC",
-    "max_ptl_release_gallons":1600
+    "release":1600
     }
   },
   {
@@ -698,7 +698,7 @@
     "open_date":"2016-06-23",
     "name":"Halls Canyon Pipeline",
     "location":"Ventura, CA",
-    "max_ptl_release_gallons":25200
+    "release":25200
     }
   },
   {
@@ -712,7 +712,7 @@
     "open_date":"2016-10-11",
     "name":"Grounded Barges Hatteras Island, NC",
     "location":"Hatteras, NC, USA",
-    "max_ptl_release_gallons":500
+    "release":500
     }
   },
   {
@@ -726,7 +726,7 @@
     "open_date":"2016-08-13",
     "name":"UTV Jackson Aaron",
     "location":"Mississippi Mile Marker 768.2",
-    "max_ptl_release_gallons":94000
+    "release":94000
     }
   },
   {
@@ -740,7 +740,7 @@
     "open_date":"2016-02-12",
     "name":"Abandoned cannery site",
     "location":"McAbee Beach, Monterey, CA",
-    "max_ptl_release_gallons":750
+    "release":750
     }
   },
   {
@@ -754,7 +754,7 @@
     "open_date":"2016-01-22",
     "name":"Kinder Morgan",
     "location":"Chesapeake,Virginia",
-    "max_ptl_release_gallons":1600000
+    "release":1600000
     }
   },
   {
@@ -768,7 +768,7 @@
     "open_date":"2016-05-20",
     "name":"M/V ULTRA LASCAR",
     "location":"Outside San Francisco Bay, CA",
-    "max_ptl_release_gallons":166320
+    "release":166320
     }
   },
   {
@@ -782,7 +782,7 @@
     "open_date":"2016-06-14",
     "name":"Navy Helicopter Crash",
     "location":"Newport News, Virginia",
-    "max_ptl_release_gallons":400
+    "release":400
     }
   },
   {
@@ -796,7 +796,7 @@
     "open_date":"2016-09-04",
     "name":"Grounded Spirit of Sacramento",
     "location":"False River, San Joaquin River Delta, CA",
-    "max_ptl_release_gallons":600
+    "release":600
     }
   },
   {
@@ -810,7 +810,7 @@
     "open_date":"2016-11-22",
     "name":"WW-II Landing Craft",
     "location":"Rio Vista, CA",
-    "max_ptl_release_gallons":220
+    "release":220
     }
   },
   {
@@ -824,7 +824,7 @@
     "open_date":"2016-03-03",
     "name":"Tug Gregory David",
     "location":"Pool 27, Upper Mississippi River MM 184.5",
-    "max_ptl_release_gallons":20000
+    "release":20000
     }
   },
   {
@@ -838,7 +838,7 @@
     "open_date":"2016-11-07",
     "name":"T/V Newlead Granadino",
     "location":"Monkton, MD 21111, USA",
-    "max_ptl_release_gallons":3100
+    "release":3100
     }
   },
   {
@@ -852,7 +852,7 @@
     "open_date":"2016-11-09",
     "name":"Shark River Oil Spill",
     "location":"342-360 S Riverside Dr, Neptune City, NJ 07753, USA",
-    "max_ptl_release_gallons":10
+    "release":10
     }
   },
   {
@@ -866,7 +866,7 @@
     "open_date":"2016-01-02",
     "name":"Hudson River 78th Street Dielectric Fluid Spill",
     "location":"Edgewater, NJ",
-    "max_ptl_release_gallons":10000
+    "release":10000
     }
   },
   {
@@ -880,7 +880,7 @@
     "open_date":"2016-11-15",
     "name":"Pleasure Craft LUCIA",
     "location":"United States",
-    "max_ptl_release_gallons":175
+    "release":175
     }
   },
   {
@@ -894,7 +894,7 @@
     "open_date":"2016-03-17",
     "name":"Tarrytown Tug Barge Collision",
     "location":"Tappan Zee Bridge, NY",
-    "max_ptl_release_gallons":2500
+    "release":2500
     }
   },
   {
@@ -908,7 +908,7 @@
     "open_date":"2016-06-30",
     "name":"Tug boat Potomac",
     "location":"Tappanzee Bridge, NY",
-    "max_ptl_release_gallons":1000
+    "release":1000
     }
   },
   {
@@ -922,7 +922,7 @@
     "open_date":"2016-03-20",
     "name":"F/V LONGSHOT",
     "location":"Long Island Sound",
-    "max_ptl_release_gallons":1100
+    "release":1100
     }
   },
   {
@@ -936,7 +936,7 @@
     "open_date":"2016-04-04",
     "name":"Truck Accident: I95",
     "location":"New London, CT (I95 Bridge)",
-    "max_ptl_release_gallons":250
+    "release":250
     }
   },
   {
@@ -950,7 +950,7 @@
     "open_date":"2016-11-20",
     "name":"F/V CAPT Jeff",
     "location":"12 Saltmarsh Rd, Fairhaven, MA 02719, USA",
-    "max_ptl_release_gallons":4000
+    "release":4000
     }
   },
   {
@@ -964,7 +964,7 @@
     "open_date":"2016-02-16",
     "name":"Tug Emily Anne",
     "location":"Boston Outer Harbor",
-    "max_ptl_release_gallons":1800
+    "release":1800
     }
   },
   {
@@ -978,7 +978,7 @@
     "open_date":"2016-11-15",
     "name":"F/V Blue Ocean",
     "location":"75 Eastern Point Blvd, Gloucester, MA 01930, USA",
-    "max_ptl_release_gallons":200
+    "release":200
     }
   },
   {
@@ -992,7 +992,7 @@
     "open_date":"2016-06-30",
     "name":"T/V CHEM VENUS",
     "location":"Portsmouth, NH",
-    "max_ptl_release_gallons":30000
+    "release":30000
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "open_date":"2016-11-22",
     "name":"Barge DBL 185",
     "location":"Off Port Orford, OR",
-    "max_ptl_release_gallons":7560000
+    "release":7560000
     }
   },
   {
@@ -1020,7 +1020,7 @@
     "open_date":"2016-06-26",
     "name":"Lake Ontario Mystery Sheen",
     "location":"Sunset Bay, Lake Ontario, New York",
-    "max_ptl_release_gallons":60
+    "release":60
     }
   },
   {
@@ -1034,7 +1034,7 @@
     "open_date":"2016-08-17",
     "name":"F/V Lydia & Maya",
     "location":"Downeast Maine",
-    "max_ptl_release_gallons":3000
+    "release":3000
     }
   },
   {
@@ -1048,7 +1048,7 @@
     "open_date":"2016-01-27",
     "name":"Canadian Pacific Rail Train Derailment",
     "location":"Brownsville, MN Mississippi River",
-    "max_ptl_release_gallons":95000
+    "release":95000
     }
   },
   {
@@ -1062,7 +1062,7 @@
     "open_date":"2016-05-13",
     "name":"Mystery Spill Pemaquid Point",
     "location":"Pemaquid Point, Maine",
-    "max_ptl_release_gallons":250
+    "release":250
     }
   },
   {
@@ -1076,7 +1076,7 @@
     "open_date":"2016-07-12",
     "name":"F/V Mickey Sue",
     "location":"Tillamook Bay, OR",
-    "max_ptl_release_gallons":250
+    "release":250
     }
   },
   {
@@ -1090,7 +1090,7 @@
     "open_date":"2016-11-19",
     "name":"M/V Nenita, Columbia River, WA",
     "location":"Columbia River Mile 30, WA",
-    "max_ptl_release_gallons":300000
+    "release":300000
     }
   },
   {
@@ -1104,7 +1104,7 @@
     "open_date":"2016-05-27",
     "name":"M/V Roger Blough",
     "location":"Lake Superior, Michigan",
-    "max_ptl_release_gallons":133141
+    "release":133141
     }
   },
   {
@@ -1118,7 +1118,7 @@
     "open_date":"2016-08-20",
     "name":"Grounded F/V Ila",
     "location":"Grays Harbor, WA",
-    "max_ptl_release_gallons":250
+    "release":250
     }
   },
   {
@@ -1132,7 +1132,7 @@
     "open_date":"2016-10-24",
     "name":"F/V Pacific Rim",
     "location":"Westport, WA 98595, USA",
-    "max_ptl_release_gallons":250
+    "release":250
     }
   },
   {
@@ -1146,7 +1146,7 @@
     "open_date":"2016-04-15",
     "name":"F/V PRIVATEER",
     "location":"Ocean Shores, WA",
-    "max_ptl_release_gallons":6000
+    "release":6000
     }
   },
   {
@@ -1160,7 +1160,7 @@
     "open_date":"2016-05-23",
     "name":"F/V JAMIE MARIE",
     "location":"Ocean Shores, WA",
-    "max_ptl_release_gallons":4500
+    "release":4500
     }
   },
   {
@@ -1174,7 +1174,7 @@
     "open_date":"2016-09-08",
     "name":"F/V Trinity",
     "location":"Copalis Beach, WA",
-    "max_ptl_release_gallons":3000
+    "release":3000
     }
   },
   {
@@ -1188,7 +1188,7 @@
     "open_date":"2016-03-20",
     "name":"Marina fire",
     "location":"Port Orchard, WA",
-    "max_ptl_release_gallons":1800
+    "release":1800
     }
   },
   {
@@ -1202,7 +1202,7 @@
     "open_date":"2016-12-10",
     "name":"M/V Olympic",
     "location":"Apple Tree Cove",
-    "max_ptl_release_gallons":200
+    "release":200
     }
   },
   {
@@ -1216,7 +1216,7 @@
     "open_date":"2016-10-13",
     "name":"S/V Soteria",
     "location":"Clallam County, WA, USA",
-    "max_ptl_release_gallons":60
+    "release":60
     }
   },
   {
@@ -1230,7 +1230,7 @@
     "open_date":"2016-03-10",
     "name":"F/V BERGEN",
     "location":"Bellingham, WA",
-    "max_ptl_release_gallons":1500
+    "release":1500
     }
   },
   {
@@ -1244,7 +1244,7 @@
     "open_date":"2016-07-19",
     "name":"FV Taty Z",
     "location":"Amlia Island, Alaska",
-    "max_ptl_release_gallons":1600
+    "release":1600
     }
   },
   {
@@ -1258,7 +1258,7 @@
     "open_date":"2016-07-26",
     "name":"FV Alaska Juris",
     "location":"Amchitka Pass, Alaska",
-    "max_ptl_release_gallons":100000
+    "release":100000
     }
   },
   {
@@ -1272,7 +1272,7 @@
     "open_date":"2016-12-07",
     "name":"F/V Exito",
     "location":"Unalaska, Alaska",
-    "max_ptl_release_gallons":5000
+    "release":5000
     }
   },
   {
@@ -1286,7 +1286,7 @@
     "open_date":"2016-06-20",
     "name":"FV Chippewa",
     "location":"Unimak Island, Alaska",
-    "max_ptl_release_gallons":1000
+    "release":1000
     }
   },
   {
@@ -1300,7 +1300,7 @@
     "open_date":"2016-07-28",
     "name":"PC Outlaw",
     "location":"Long Island, Alaska",
-    "max_ptl_release_gallons":450
+    "release":450
     }
   },
   {
@@ -1314,7 +1314,7 @@
     "open_date":"2016-07-24",
     "name":"FV Ambition",
     "location":"False Pass, Alaska",
-    "max_ptl_release_gallons":3000
+    "release":3000
     }
   },
   {
@@ -1328,7 +1328,7 @@
     "open_date":"2016-06-30",
     "name":"FV Echo",
     "location":"Nelson Lagoon, Alaska",
-    "max_ptl_release_gallons":210
+    "release":210
     }
   },
   {
@@ -1342,7 +1342,7 @@
     "open_date":"2016-02-12",
     "name":"FV Stella Marie",
     "location":"Sitka, Alaska",
-    "max_ptl_release_gallons":70
+    "release":70
     }
   },
   {
@@ -1356,7 +1356,7 @@
     "open_date":"2016-01-13",
     "name":"F/V Yankee",
     "location":"Neva Strait, Sitka, Alaska",
-    "max_ptl_release_gallons":150
+    "release":150
     }
   },
   {
@@ -1370,7 +1370,7 @@
     "open_date":"2016-07-25",
     "name":"FV Carmelina",
     "location":"Dry Bay, Alaska",
-    "max_ptl_release_gallons":250
+    "release":250
     }
   },
   {
@@ -1384,7 +1384,7 @@
     "open_date":"2016-02-16",
     "name":"FV Tempest",
     "location":"Whale Island, Kodiak, AK",
-    "max_ptl_release_gallons":2000
+    "release":2000
     }
   },
   {
@@ -1398,7 +1398,7 @@
     "open_date":"2016-04-04",
     "name":"F/V Volga",
     "location":"Resurrection Bay, Alaska",
-    "max_ptl_release_gallons":500
+    "release":500
     }
   },
   {
@@ -1412,7 +1412,7 @@
     "open_date":"2016-01-04",
     "name":"FV Moonraker",
     "location":"Latouche Island, Alaska",
-    "max_ptl_release_gallons":200
+    "release":200
     }
   },
   {
@@ -1426,7 +1426,7 @@
     "open_date":"2016-04-04",
     "name":"Qinaq River Submerged Excavator",
     "location":"Tuntutuliak, Alaska",
-    "max_ptl_release_gallons":60
+    "release":60
     }
   },
   {
@@ -1440,7 +1440,7 @@
     "open_date":"2016-10-30",
     "name":"Iron Throne Sinking",
     "location":"Prince William Sound, Alaska",
-    "max_ptl_release_gallons":100
+    "release":100
     }
   },
   {
@@ -1454,7 +1454,7 @@
     "open_date":"2016-11-27",
     "name":"Tyonek Platform Potential",
     "location":"Tyonek, AK",
-    "max_ptl_release_gallons":69000
+    "release":69000
     }
   },
   {
@@ -1468,7 +1468,7 @@
     "open_date":"2016-08-20",
     "name":"FB North Pacific Adrift, Nome, Alaska",
     "location":"Nome, AK, USA",
-    "max_ptl_release_gallons":1700
+    "release":1700
     }
   },
   {
@@ -1482,7 +1482,7 @@
     "open_date":"2016-11-17",
     "name":"Jack-Up Barge Grounding",
     "location":"Nome, AK",
-    "max_ptl_release_gallons":350
+    "release":350
     }
   }
 ]
